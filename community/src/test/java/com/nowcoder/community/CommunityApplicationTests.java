@@ -1,8 +1,8 @@
 package com.nowcoder.community;
 
-import com.nowcoder.community.Service.AlphaService;
 import com.nowcoder.community.dao.AlphaDao;
-import org.junit.jupiter.api.Test;
+import com.nowcoder.community.service.AlphaService;
+import org.junit.Test;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
